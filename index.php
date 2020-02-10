@@ -1,3 +1,4 @@
+<h1>TEST PAGE</h1>
 <?php
 /**
  * Created by PhpStorm.
@@ -5,4 +6,5 @@
  * Date: 9/07/2018
  * Time: 5:11 PM
  */
+
 phpinfo();
